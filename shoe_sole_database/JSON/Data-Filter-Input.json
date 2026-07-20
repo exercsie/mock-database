@@ -1,0 +1,15 @@
+{
+    "brands": [   
+ ],
+
+    "models": [
+    ],
+
+    "yearOperationSign": "=",
+    "year": 0,
+
+    "patterns": [
+	"zigzag", "circles"
+    ],
+    "patternMatch": "ALL"
+}
